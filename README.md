@@ -2,13 +2,14 @@
 
 Now built with React and Gatsby!
 
-Organization:
-home
-| 
-|-- web projects 
-|-- contact info / cv
-|-- blog / other writing
-|-- creative projects ???
+how do I want to organize the flow?
+
+home  
+|   
+|-- web projects  
+|-- contact info / cv  
+|-- blog / other writing  
+|-- creative projects ???  
 
 Plans:
 * new navigation system
