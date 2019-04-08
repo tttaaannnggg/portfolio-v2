@@ -1,10 +1,10 @@
 import React from 'react';
-import Header from '../components/Header';
+import NavOverlay from '../components/NavOverlay'
 
 export default ()=>
   (
    <div>
-     <Header />
+     <NavOverlay />
      <h1>gonna make a new portfolio page</h1>
    </div>
    )
