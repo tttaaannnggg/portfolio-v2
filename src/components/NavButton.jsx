@@ -1,11 +1,12 @@
-import React from "react"
+import React from "react";
+import { Link } from "gatsby";
 
 const NavButton = (props)=>{
   return(
     <div className = {props.className}>
-      <a href={props.path} className={props.textStyle}>
+      <Link to={props.path} className={props.textStyle}>
         {props.path}
-      </a>
+      </Link>
     </div>
   )
 }

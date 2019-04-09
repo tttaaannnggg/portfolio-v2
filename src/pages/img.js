@@ -5,6 +5,12 @@ export default ()=>
   (
    <div>
      <NavOverlay />
-     <h1>gonna make a new portfolio page</h1>
+     <div className ='container__content'>
+         <h1>gonna make a new portfolio page</h1>
+         <p> lorem ipsum etc </p>
+         <p> lorem ipsum etc </p>
+         <p> lorem ipsum etc </p>
+         <p> lorem ipsum etc </p>
+     </div>
    </div>
    )

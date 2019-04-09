@@ -1,12 +1,13 @@
 
 .container__whole{
+  background-color: black;
 }
-
 .container__content{
-  display:flex;
-  justify-content: center;
-  align-items: center;
-  padding: 10vh 10vw;
+  margin: 8vh 5vw;
+  padding: 2vh 2vw;
+  height: 80vh;
+  overflow-y: hidden;
+  border: 1px solid blue;
 }
 .nav_link a{
   text-decoration: none;
@@ -16,6 +17,7 @@
 }
 
 .nav__link{
+  font-size: 12px;
   text-align: center;
   font-weight: bold;
   position: fixed;

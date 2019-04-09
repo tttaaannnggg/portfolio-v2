@@ -10,3 +10,8 @@
   margin: 0px;
   padding: 0px;
 }
+::-webkit-scrollbar {
+  width: 0px;
+  color: rgba(255,255,255,0);
+}
+

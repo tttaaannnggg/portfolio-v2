@@ -1,0 +1,15 @@
+.center__element{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  letter-spacing: -5em;
+  font-weight: 750;
+}
+
+.center__element--main{
+  font-size: 900px;
+  font-style: bold;
+}
