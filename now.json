@@ -1,9 +1,12 @@
 {
-  "version": 1,
+  "version": 2,
   "name": "portfolio-redo",
+  "alias": ["tang"],
   "builds":[
+    {
     "src": "package.json",
     "use": "@now/static-build",
     "config": {"distDir": "public"}
+    }
   ]
 }
