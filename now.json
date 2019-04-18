@@ -1,1 +1,9 @@
-{}
+{
+  "version": 1,
+  "name": "portfolio-redo",
+  "builds":[
+    "src": "package.json",
+    "use": "@now/static-build",
+    "config": {"distDir": "public"}
+  ]
+}
